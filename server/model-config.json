@@ -16,5 +16,9 @@
   "Users": {
     "dataSource": "mongodb",
     "public": true
+  },
+  "Post": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
